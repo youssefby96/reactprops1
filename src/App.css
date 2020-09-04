@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 250px 0px;
+  background-image:  url(./backk.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+  h1{
+  color : rgb(8, 117, 4);
+}
+
+
+
+  
+
